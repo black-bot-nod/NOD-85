@@ -237,6 +237,8 @@ function create_config( )
     "owners",
     "plugins",
     "set",
+    "supergroups.lua",
+    "saveplug.lua",
     "spam",
     "stats",
     "support",
